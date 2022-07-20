@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Bartosz</h1>
-<h2 align="center">Frontend student from Poland</h2>
+<h1 align="center">👋 Hi, I am Bartosz</h1>
+<h2 align="center">Future frontend developer</h2>
 <br>
 <p align="center">👷‍♂️ I’m currently working on learning React!<p>
 
