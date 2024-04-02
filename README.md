@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I am Bartosz</h1>
-<h2 align="center">Future frontend developer</h2>
+<h2 align="center">Junior frontend developer</h2>
 <br>
-<p align="center">👷‍♂️ I’m currently working on learning React!<p>
-
 <p align="center">💻 All of my projects are available here. Check them!</p>
 <br>
 <br>
