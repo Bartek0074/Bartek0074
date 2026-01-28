@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi, I am Bartosz</h1>
 
-<h3 align='center'>Junior Frontend Developer from Poland</h3>
+<h3 align='center'>Frontend Developer from Poland</h3>
 
 </br>
 
