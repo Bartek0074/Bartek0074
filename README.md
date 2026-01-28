@@ -19,26 +19,6 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-</div>
-
-</br>
-
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Bartek0074&theme=vue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-<br/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bartek0074&theme=vue&hide_border=false" alt="GitHub Streak Stats">
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek0074&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</div>
-
-</br>
-
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Bartek0074&icon=0&color=0" alt="Visitor Count">
-</a>
 <!---
 Bartek0074/Bartek0074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
